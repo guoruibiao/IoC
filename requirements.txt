@@ -1,1 +1,3 @@
 # Here are the requirements of this project
+
+BeautifulSoup(3.2.1) 或者一个不必须的beautifulsoup4(4.4.1)
