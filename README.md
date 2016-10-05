@@ -3,6 +3,12 @@
 
 ![首页展示图](https://github.com/guoruibiao/IoC/raw/master/images/index.png)
 
+![login](https://github.com/guoruibiao/IoC/raw/master/images/login.png)
+
+![register](https://github.com/guoruibiao/IoC/raw/master/images/register.png)
+
+![Personal](https://github.com/guoruibiao/IoC/raw/master/images/personal.png)
+
 ## Python端
 
 这里主要是借助于Python作为爬虫的功能来爬取代理IP的详细信息，然后封装承兑项数据，存储到数据库中。
