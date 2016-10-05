@@ -7,7 +7,7 @@
 
 ![register](https://github.com/guoruibiao/IoC/raw/master/images/register.png)
 
-![Personal](https://github.com/guoruibiao/IoC/raw/master/images/personal.png)
+![Personal](https://github.com/guoruibiao/IoC/raw/master/images/personalpage.png)
 
 ## Python端
 
