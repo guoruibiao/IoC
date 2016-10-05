@@ -31,8 +31,8 @@ def confreadtest():
     for index in range(1, 11):
         print (ipconf.conf.get('urls', 'page'+str(index)))
 
-
 def insertmanytest():
+
     confpath = r'../config/db.conf'
     dbutil = DbUtil(confpath=confpath)
     dbinfo = dbutil.get_dbinfo(sectionname='mysql')
